@@ -4,5 +4,5 @@
 /**
  * 
  */
-module ProyectoUnidad2 {
+module proyclase {
 }
